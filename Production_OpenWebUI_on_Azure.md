@@ -21,7 +21,7 @@ Before diving into the details, here is the full picture of what the final deplo
 │                   Azure Subscription                     │
 │                                                         │
 │  ┌──────────┐     ┌─────────────┐    ┌───────────────┐  │
-│  │  Entra   │────▶│  OpenWebUI  │───▶│  Azure AI     │  │
+│  │  Entra   │───▶│  OpenWebUI  │───▶│  Azure AI     │  │
 │  │  ID      │     │  Container  │    │  Foundry      │  │
 │  │ (SSO)    │     │  App        │    │  (GPT-4o,     │  │
 │  └──────────┘     └──────┬──────┘    │   Claude,     │  │
