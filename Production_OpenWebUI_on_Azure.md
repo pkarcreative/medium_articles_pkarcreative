@@ -176,5 +176,3 @@ The architecture described here is what I am running in production for a large e
 If you are working on a similar deployment and want to skip the painful parts, feel free to reach out. This is exactly the kind of engagement Beyontomoro takes on.
 
 ---
-
-*Next in this series: Building Autonomous AI Agents on Azure with MCP Servers and Custom Tools.*
