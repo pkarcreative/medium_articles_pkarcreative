@@ -18,7 +18,7 @@ Before diving into the details, here is the full picture of what the final deplo
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                   Azure Subscription                     │
+│                   Azure Subscription                    │
 │                                                         │
 │  ┌──────────┐     ┌─────────────┐    ┌───────────────┐  │
 │  │  Entra   │───▶│  OpenWebUI  │───▶│  Azure AI     │  │
